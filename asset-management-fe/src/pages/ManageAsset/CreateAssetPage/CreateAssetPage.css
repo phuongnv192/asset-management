@@ -1,0 +1,20 @@
+
+button#dropdown-autoclose-false {
+    background-color: #ffffff!important;
+    border: 1px solid #ced4da !important;
+    padding: .375rem .75rem !important;
+
+}
+.drop-category{
+    height: 100%;
+}
+.menu-control{
+    overflow-y: scroll;
+    height: 210px;
+}
+.drop-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text-color);
+}

@@ -1,0 +1,11 @@
+/*1px solid #ced4da;*/
+.button-select{
+    background-color: #E9ECEF!important;
+    border-right: 1px solid #3e4042!important;
+    border-bottom: 1px solid #3e4042!important;
+    border-top: 1px solid #3e4042!important;
+}
+.icon-edit{
+    font-size: 14px!important;
+    color: #707070;
+}

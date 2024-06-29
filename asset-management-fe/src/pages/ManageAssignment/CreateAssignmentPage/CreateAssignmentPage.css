@@ -1,0 +1,16 @@
+
+.button-add{
+    background-color: #ffffff!important;
+    border-radius: 0 0.25rem 0.25rem 0 !important;
+    border-right: 1px solid #3e4042!important;
+    border-bottom: 1px solid #3e4042!important;
+    border-top: 1px solid #3e4042!important;
+}
+.input-assign{
+    background-color: #ffffff!important;
+}
+.icon-assign{
+
+    font-size: 14px!important;
+    color: #707070;
+}
